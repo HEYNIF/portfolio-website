@@ -13,7 +13,7 @@ This is the portfolio website for Mohammed Hanif Shaikh, a QA Engineer with expe
 
 Click the button below to deploy this portfolio to Netlify:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/HEYNIF/portfolio-website)
 
 ## Local Development
 
